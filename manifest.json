@@ -1,0 +1,15 @@
+{
+  "name": "Unique letter count",
+  "description": "Counts the number of unique latin letters in a text",
+  "author": "Mark Probst <mark@glideapps.com>",
+  "params": [
+    {
+      "name": "num",
+      "displayName": "Mysterynumber",
+      "type": "number"
+    }
+  ],
+  "result": {
+    "type": "string"
+  }
+}
